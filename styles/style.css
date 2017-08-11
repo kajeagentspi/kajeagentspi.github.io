@@ -45,3 +45,13 @@ header {background: black;color:white;}
 	.nav {text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
 	.content {-webkit-flex:15 0px;flex:15 0px;-webkit-order:2;order:2;}
 }
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
