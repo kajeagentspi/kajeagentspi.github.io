@@ -58,7 +58,11 @@ header {background: black;color:white;}
 .center {
 	margin: auto;
 	text-align: center;
-	position:fixed;
-	top: 25%;
-    	left: 50%;
+	width: 100px;
+    	height: 100px;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
 }
