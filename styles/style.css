@@ -59,5 +59,7 @@ header {background: black;color:white;}
 	display: table;
 	margin: auto;
 	text-align: center;
-
+	position:fixed;
+	top: 50%;
+    	left: 50%;
 }
