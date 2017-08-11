@@ -55,6 +55,7 @@ header {background: black;color:white;}
     display: inline-block;
     font-size: 16px;
 }
-#center {
-	margin: auto;
+.center {
+  display: table;
+  margin: auto;
 }
